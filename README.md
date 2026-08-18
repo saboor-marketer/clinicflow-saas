@@ -44,3 +44,7 @@ clinicflow-saas/
 Feel free to contribute in this project for future enhancements.....
 
 ---
+
+## MADE WITH 💖
+
+---
