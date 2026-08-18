@@ -39,3 +39,7 @@ clinicflow-saas/
 ## 👨‍💻Author
 - ***ABDUL SABOOR***
   ---
+
+## Contributions
+```Feel free to contribute in this project for future enhancements.....
+---
